@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ar\\values-ar.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 119,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 119,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 133,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1189,
+                        "endColumn": 133,
+                        "endOffset": 1318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 75,
+                    "endOffset": 430
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1112,
+                        "endColumn": 75,
+                        "endOffset": 1183
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 435,
+                    "endColumn": 83,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1667,
+                        "endColumn": 83,
+                        "endOffset": 1746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 79,
+                    "endOffset": 594
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1586,
+                        "endColumn": 79,
+                        "endOffset": 1661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 599,
+                    "endColumn": 109,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1752,
+                        "endColumn": 109,
+                        "endOffset": 1857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 96,
+                    "endOffset": 801
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 96,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 806,
+                    "endColumn": 83,
+                    "endOffset": 885
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1027,
+                        "endColumn": 83,
+                        "endOffset": 1106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 890,
+                    "endColumn": 135,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1445,
+                        "endColumn": 139,
+                        "endOffset": 1580
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 101,
+                    "endOffset": 1123
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ar\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 105,
+                        "endOffset": 923
+                    }
+                }
+            }
+        ]
+    }
+]

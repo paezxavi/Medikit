@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ur-rPK\\values-ur-rPK.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 125,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1322,
+                        "endColumn": 125,
+                        "endOffset": 1443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 127,
+                    "endOffset": 354
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1193,
+                        "endColumn": 127,
+                        "endOffset": 1316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 359,
+                    "endColumn": 81,
+                    "endOffset": 436
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1110,
+                        "endColumn": 81,
+                        "endOffset": 1187
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 441,
+                    "endColumn": 88,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1684,
+                        "endColumn": 88,
+                        "endOffset": 1768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 85,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1597,
+                        "endColumn": 85,
+                        "endOffset": 1678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 109,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1774,
+                        "endColumn": 109,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 89,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 930,
+                        "endColumn": 89,
+                        "endOffset": 1015
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 87,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 87,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 142,
+                    "endOffset": 1042
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1449,
+                        "endColumn": 146,
+                        "endOffset": 1591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1047,
+                    "endColumn": 102,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ur-rPK\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 106,
+                        "endOffset": 924
+                    }
+                }
+            }
+        ]
+    }
+]

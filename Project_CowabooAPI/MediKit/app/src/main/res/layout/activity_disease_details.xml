@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:isScrollContainer="true"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Title"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="30sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginTop="5dp"
+        android:layout_weight="0.07"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <ImageView
+            android:id="@+id/imgDetails0"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="31dp"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/type_respiratoire" />
+
+        <ImageView
+            android:id="@+id/imgDetails1"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="25dp"
+            android:layout_toEndOf="@+id/imgDetails0"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/type_coeur" />
+
+        <ImageView
+            android:id="@+id/imgDetails2"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="24dp"
+            android:layout_toEndOf="@+id/imgDetails1"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/type_dermatologique" />
+
+        <ImageView
+            android:id="@+id/imgDetails3"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="26dp"
+            android:layout_toEndOf="@+id/imgDetails2"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/type_intestinales" />
+
+        <ImageView
+            android:id="@+id/imgDetails4"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="21dp"
+            android:layout_toEndOf="@+id/imgDetails3"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/type_musculaires" />
+
+        <ImageView
+            android:id="@+id/imgDetails5"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="23dp"
+            android:layout_toEndOf="@+id/imgDetails4"
+            android:scaleType="fitXY"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/type_cerveau" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="275dp"
+        android:layout_marginTop="15dp"
+        android:layout_weight="0.29">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1">
+
+            <ImageView
+                android:id="@+id/imageView5"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:adjustViewBounds="false"
+                android:cropToPadding="false"
+                android:scaleType="fitCenter"
+                app:srcCompat="@drawable/symptoms" />
+
+            <TextView
+                android:id="@+id/symptoms"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:layout_marginTop="0dp"
+                android:layout_toStartOf="@+id/title"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/symptDet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/symptoms"
+                android:layout_toEndOf="@+id/symptoms"
+                android:layout_weight="2.36"
+                android:text="TextView"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/imageView6"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_marginTop="5dp"
+                app:srcCompat="@drawable/treatments" />
+
+            <TextView
+                android:id="@+id/treatments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignStart="@+id/symptoms"
+                android:layout_below="@+id/symptoms"
+                android:text="TextView"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body2"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/treatDet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/treatments"
+                android:layout_alignBottom="@+id/treatments"
+                android:layout_alignStart="@+id/symptDet"
+                android:text="TextView"
+                android:textColor="@color/cardview_dark_background"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="vertical"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/tv_satisf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="14dp"
+            android:text="TextView"
+            android:textAlignment="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+            android:textColor="@color/colorAccent"
+            android:textSize="24sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:layout_weight="1.61"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <Button
+                android:id="@+id/btnNo"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:layout_alignTop="@+id/btnYes"
+                android:layout_marginStart="10dp"
+                android:layout_toEndOf="@+id/btnYes"
+                android:background="@drawable/custom_button_login"
+                android:elevation="0dp"
+                android:text="Non"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textColor="#fafafa"
+                android:textSize="16sp"
+                android:layout_weight="0.48" />
+
+            <Button
+                android:id="@+id/btnYes"
+                android:layout_width="140dp"
+                android:layout_height="40dp"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/tv_satisf"
+                android:layout_marginEnd="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_weight="0.33"
+                android:background="@drawable/custom_button"
+                android:elevation="0dp"
+                android:text="Oui"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textColor="#fafafa"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

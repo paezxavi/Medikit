@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ta-rIN\\values-ta-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 116,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 116,
+                        "endOffset": 1442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 131,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1197,
+                        "endColumn": 131,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 354,
+                    "endColumn": 79,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1116,
+                        "endColumn": 79,
+                        "endOffset": 1191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 87,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1683,
+                        "endColumn": 87,
+                        "endOffset": 1766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 82,
+                    "endOffset": 600
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1599,
+                        "endColumn": 82,
+                        "endOffset": 1677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 605,
+                    "endColumn": 119,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1772,
+                        "endColumn": 119,
+                        "endOffset": 1887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 95,
+                    "endOffset": 816
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 95,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 821,
+                    "endColumn": 88,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endColumn": 88,
+                        "endOffset": 1110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 145,
+                    "endOffset": 1051
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1448,
+                        "endColumn": 149,
+                        "endOffset": 1593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1056,
+                    "endColumn": 101,
+                    "endOffset": 1153
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-ta-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 105,
+                        "endOffset": 923
+                    }
+                }
+            }
+        ]
+    }
+]

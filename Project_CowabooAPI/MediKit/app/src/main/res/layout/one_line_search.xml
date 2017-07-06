@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imgRespiratoires"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/imgCoeur"
+        android:layout_marginTop="11dp"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/type_respiratoire" />
+
+    <ImageView
+        android:id="@+id/imgCoeur"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/tv_disease"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/imgRespiratoires"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/type_coeur" />
+
+    <ImageView
+        android:id="@+id/img_icon"
+        android:layout_width="60dp"
+        android:layout_height="70dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone"
+        app:srcCompat="@drawable/man" />
+
+    <ImageView
+        android:id="@+id/imgIntestinales"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/tv_disease"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/imgDermatologiques"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/type_intestinales" />
+
+    <ImageView
+        android:id="@+id/imgDermatologiques"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/tv_disease"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/imgCoeur"
+        android:adjustViewBounds="true"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/type_dermatologique" />
+
+    <ImageView
+        android:id="@+id/imgMusculaires"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/tv_disease"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/imgIntestinales"
+        app:srcCompat="@drawable/type_musculaires" />
+
+    <ImageView
+        android:id="@+id/imgCerveau"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignTop="@+id/imgMusculaires"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/imgMusculaires"
+        android:scaleType="fitXY"
+        app:srcCompat="@drawable/type_cerveau" />
+
+    <TextView
+        android:id="@+id/tv_disease"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat"
+        android:textSize="24sp" />
+
+</LinearLayout>

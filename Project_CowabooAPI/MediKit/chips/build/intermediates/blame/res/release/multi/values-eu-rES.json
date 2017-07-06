@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-eu-rES\\values-eu-rES.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 130,
+                    "endOffset": 231
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 130,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 236,
+                    "endColumn": 132,
+                    "endOffset": 364
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1203,
+                        "endColumn": 132,
+                        "endOffset": 1331
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 369,
+                    "endColumn": 77,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 77,
+                        "endOffset": 1197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 82,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1698,
+                        "endColumn": 82,
+                        "endOffset": 1776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 83,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1613,
+                        "endColumn": 83,
+                        "endOffset": 1692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 111,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1782,
+                        "endColumn": 111,
+                        "endOffset": 1889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 97,
+                    "endOffset": 819
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 929,
+                        "endColumn": 97,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 824,
+                    "endColumn": 94,
+                    "endOffset": 914
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 94,
+                        "endOffset": 1118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 919,
+                    "endColumn": 138,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1469,
+                        "endColumn": 142,
+                        "endOffset": 1607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endColumn": 101,
+                    "endOffset": 1155
+                },
+                "from": {
+                    "file": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\res\\values-eu-rES\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 822,
+                        "endColumn": 105,
+                        "endOffset": 923
+                    }
+                }
+            }
+        ]
+    }
+]

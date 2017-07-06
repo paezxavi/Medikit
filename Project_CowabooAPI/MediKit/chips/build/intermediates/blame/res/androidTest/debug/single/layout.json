@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\more_item.xml",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\layout\\more_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chips_recipient_dropdown_item.xml",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\layout\\chips_recipient_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\chips_autocomplete_recipient_dropdown_item.xml",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\layout\\chips_autocomplete_recipient_dropdown_item.xml"
+    }
+]

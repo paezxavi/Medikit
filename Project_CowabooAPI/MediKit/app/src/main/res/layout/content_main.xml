@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.example.pixa.medikit.Presentation.MainActivity"
+    tools:showIn="@layout/app_bar_main">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="386dp"
+        android:layout_height="483dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Bienvenue sur MediKit"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="36sp"
+        tools:layout_editor_absoluteX="-1dp"
+        tools:layout_editor_absoluteY="-31dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="83dp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="105dp"
+        android:layout_height="86dp"
+        app:srcCompat="?attr/actionModeBackground"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="102dp"
+        android:layout_marginTop="39dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/imageView4" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="105dp"
+        android:layout_height="86dp"
+        app:srcCompat="?attr/actionModeBackground"
+        tools:layout_editor_absoluteX="140dp"
+        tools:layout_editor_absoluteY="102dp"
+        android:layout_marginBottom="98dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_contact_picture.png",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_contact_picture.png"
+    },
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\ic_cancel_wht_24dp.png",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\ic_cancel_wht_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\chips_ic_close_24dp.png",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable-xxhdpi-v4\\chips_ic_close_24dp.png"
+    }
+]

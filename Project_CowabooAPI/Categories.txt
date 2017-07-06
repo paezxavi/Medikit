@@ -1,0 +1,5 @@
+1 BDD
+2 Centre hospitalier avec numeros et approximité
+(3) Messagerie avec médecin / Forum
+(4) Akinator
+(5) Mise en relation avec personnes qui ont déjà eu à faire à ça

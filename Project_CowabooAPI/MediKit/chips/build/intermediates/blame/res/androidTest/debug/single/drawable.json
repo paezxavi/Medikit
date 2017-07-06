@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_secondary.xml",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_secondary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\list_item_font_primary.xml",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\list_item_font_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\chips_dropdown_background.xml",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\chips_dropdown_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\chip_autocomplete_divider_background.xml",
+        "source": "C:\\Users\\Pixa\\Desktop\\Project_CowabooAPI\\MediKit\\chips\\build\\intermediates\\bundles\\debug\\res\\drawable\\chip_autocomplete_divider_background.xml"
+    }
+]
